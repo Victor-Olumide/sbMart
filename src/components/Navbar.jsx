@@ -8,6 +8,7 @@ export default function Navbar() {
         {/* desktop navbar */}
         <DesktopNavbar />
 
+
         {/* Mobile navbar */}
         <MobileNavbar />
       </nav>
