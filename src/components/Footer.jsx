@@ -1,4 +1,3 @@
-import React from "react";
 import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
 
 export default function Footer() {
@@ -6,7 +5,7 @@ export default function Footer() {
     <div className="bg-[#f47c31] text-white p-6 flex  flex-col items-center justify-center md:px-24">
       <section className="flex md:flex-row flex-col items-start grid md:grid-cols-4 grid-cols-2 gap-12 justify-between container mx-auto mb-12">
         <div className="bg-white p-2">
-          <img src="trademark.png" alt="Trademark" className="w-25 h-25" />
+          <img src="/trademark.png" alt="Trademark" className="w-25 h-25" />
         </div>
 
         <div className="flex flex-col">

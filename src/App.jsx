@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "./components/Navbar";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
@@ -6,7 +5,7 @@ import ContactPage from "./pages/ContactPage";
 import NotFound from "./pages/NotFound";
 import Footer from "./components/Footer";
 import Products from "./pages/Products";
-import ProductDetailsPage from "./ProductDetailsPage";
+import ProductDetailsPage from "./pages/ProductDetailsPage";
 
 export default function App() {
   return (

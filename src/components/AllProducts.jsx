@@ -1,4 +1,3 @@
-import React from "react";
 import products from "../assets/data.js";
 import ProductCard from "./ProductCard.jsx";
 
